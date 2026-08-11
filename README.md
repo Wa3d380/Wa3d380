@@ -40,6 +40,20 @@ A responsive web-based system for creating, organizing, searching, and tracking 
 * Responsive desktop and mobile design
 * Fictional demonstration data
 
+  ### [IT Asset Management Dashboard](https://wa3d380.github.io/it-asset-management-dashboard/)
+
+A responsive web-based dashboard for tracking IT assets, assignments, warranty dates, locations, and lifecycle status.
+
+**Project features:**
+
+- Asset inventory dashboard
+- Search and advanced filtering
+- Asset assignment tracking
+- Warranty expiration alerts
+- Asset type visualization
+- Responsive desktop and mobile design
+
+
 [View the Live Project](https://wa3d380.github.io/it-helpdesk-ticketing-system/) · [View the Source Code](https://github.com/Wa3d380/it-helpdesk-ticketing-system)
 
 ---
