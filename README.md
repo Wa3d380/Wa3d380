@@ -27,6 +27,22 @@ I am an IT Specialist based in Jubail Industrial City, Saudi Arabia. I have expe
 
 ## Featured Project
 
+### [IT Operations Command Center](https://it-operations-command-center.dreamy-ray-0027.chatgpt.site)
+
+A full-stack and interactive IT operations platform for managing incidents, service requests, assets, changes, SLA performance, and executive reporting.
+
+**Key features:**
+
+- Incident and SLA management
+- Service request workflows
+- IT asset lifecycle tracking
+- Change management
+- Persistent database records
+- Search, filters, and live reports
+- Responsive light and dark modes
+
+[View Live Demo](https://it-operations-command-center.dreamy-ray-0027.chatgpt.site) · [View Source Code](https://github.com/Wa3d380/it-operations-command-center)
+
 ### [IT Help Desk Ticketing System](https://wa3d380.github.io/it-helpdesk-ticketing-system/)
 
 A responsive web-based system for creating, organizing, searching, and tracking IT support tickets.
